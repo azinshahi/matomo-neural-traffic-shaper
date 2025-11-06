@@ -10,8 +10,8 @@ This project connects **Matomo Analytics** with an adaptive AI layer that reshap
 - Matomo API
 - AI modules for live analytics adaptation
 
-```
 ### Folder structure
+```
 src/ → main Flask application  
 ai_config.json → AI behavior configuration  
 requirements.txt → Python dependencies  
