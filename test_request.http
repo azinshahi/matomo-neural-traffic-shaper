@@ -1,0 +1,5 @@
+### Test base route
+GET http://127.0.0.1:5000/
+
+### Test Matomo live data route
+GET http://127.0.0.1:5000/live
